@@ -1,5 +1,5 @@
 # MDB-Mini-Project-2
-Mini Project 2 created for MDB's Spring 2019 iOS Training Program. A searchable Pokedex app designed to provide a searchable interface for all Generation 7 Pokemon. Filter your search using various attributes, and view results in two different layouts. View individual Pokemon profiles, and add them to your favorites!
+A searchable Pokedex app designed to provide a searchable interface for all Generation 7 Pokemon. Filter your search using various attributes, and view results in two different layouts. View individual Pokemon profiles, and add them to your favorites!
 
 
 <span>
