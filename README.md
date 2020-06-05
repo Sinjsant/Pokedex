@@ -1,4 +1,4 @@
-# MDB-Mini-Project-2
+# Pokedex
 A searchable Pokedex app designed to provide a searchable interface for all Generation 7 Pokemon. Filter your search using various attributes, and view results in two different layouts. View individual Pokemon profiles, and add them to your favorites!
 
 
